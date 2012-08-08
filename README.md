@@ -5,6 +5,6 @@ Alarmic
 
 Just download (if as ZIP, UNZIP), run install-alarmic.bat ( https://github.com/nirsh/Alarmic/zipball/master ).
 
-This is an idiotically simple yet possibly very useful app for most people. Anyone is welcome to join in creating something much better out of this humble project.
+This is an idiotically simple yet possibly very useful app for most people. Any comment is welcome. This is NOT presented as a competitor to any existing app, but as a small commandline and educational project.
 
-Contact me: nirsh@outlook.com, http://fb.me/nirsh.me, https://twitter.com/nirmalshane
+Me: nirsh@outlook.com, http://fb.me/nirsh.me, https://twitter.com/nirmalshane
