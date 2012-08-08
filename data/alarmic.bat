@@ -13,5 +13,4 @@ REM Alarm code:
 	if %time:~0,5%==%t% "%programfiles%\Windows Media Player\wmplayer.exe" /play /close /new "%cd%\alarm.mp3"
 	REM You can use @echo 
 	REM or you can change ...\notify.wav into a different mp3/sound.
-	exit
 goto alarm
